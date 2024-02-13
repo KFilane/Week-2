@@ -1,4 +1,4 @@
-Personal Notes Week Two 
+Week Two 
 
 - The passage introduces the `img` element, which is fundamental for adding images to webpages, highlighting its importance in enhancing visual appeal and conveying information effectively. 
 
